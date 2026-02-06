@@ -53,10 +53,13 @@ Repositório de pesquisas acadêmicas anuais desenvolvidas durante a graduação
   - **Papel:** Líder do Grupo de Pesquisa.
   - **Foco:** Análise de Marketing 4.0, digitalização de MPEs e uso de automação/chatbots para reduzir sobrecarga operacional.
   - **Entregáveis:** Artigo Científico e Banner de Apresentação Técnica.
-### 🖼️ Visualização do Banner Técnico
-<p align="center">
-  <img src="05-artigos-cientificos/2025-redes-sociais/banner-tecnico-redes-sociais.png" width="80%" title="Banner do Artigo 2025" />
-</p>
+<details>
+  <summary>📂 <b>Clique aqui para visualizar o Banner da Apresentação</b></summary>
+  <p align="center">
+    <br>
+    <img src="05-artigos-cientificos/2025-redes-sociais/banner-tecnico-redes-sociais.png" width="600px" />
+  </p>
+</details>
 ---
 
 ## 🛠️ Competências em Destaque
