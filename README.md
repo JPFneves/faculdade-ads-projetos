@@ -46,6 +46,17 @@ Projetos de estruturação e manipulação de dados utilizando **SQL (MySQL)**.
 - **Sistema Hospitalar:** Criação de tabelas (DDL) e inserção de dados (DML) para Médicos, Pacientes e Exames.
 - **Gestão de Contas e Associados:** Consultas complexas com `INNER JOIN`, cálculos de multas e reajustes baseados no índice IGPM.
 
+### 📑 [05-artigos-cientificos](./05-artigos-cientificos)
+Repositório de pesquisas acadêmicas anuais desenvolvidas durante a graduação.
+
+- **2025: O Impacto das Redes Sociais nos Pequenos Negócios**
+  - **Papel:** Líder do Grupo de Pesquisa.
+  - **Foco:** Análise de Marketing 4.0, digitalização de MPEs e uso de automação/chatbots para reduzir sobrecarga operacional.
+  - **Entregáveis:** Artigo Científico e Banner de Apresentação Técnica.
+### 🖼️ Visualização do Banner Técnico
+<p align="center">
+  <img src="05-artigos-cientificos/2025-redes-sociais/banner-tecnico-redes-sociais.png" width="80%" title="Banner do Artigo 2025" />
+</p>
 ---
 
 ## 🛠️ Competências em Destaque
