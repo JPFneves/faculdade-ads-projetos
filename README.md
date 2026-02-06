@@ -41,7 +41,7 @@ Mapeamento de fluxos lógicos e regras de negócio utilizando **Lucidchart**.
 - **Controle de Cursos:** Atendimento, matrícula e verificação de cadastro.
 - **Locação de Fitas:** Lógica de verificação de pendências e registro de locação.
 
-### 🗄️ [04-bank-de-dados](./04-banco-de-dados)
+### 🗄️ [04-banco-de-dados](./04-banco-de-dados)
 Projetos de estruturação e manipulação de dados utilizando **SQL (MySQL)**.
 - **Sistema Hospitalar:** Criação de tabelas (DDL) e inserção de dados (DML) para Médicos, Pacientes e Exames.
 - **Gestão de Contas e Associados:** Consultas complexas com `INNER JOIN`, cálculos de multas e reajustes baseados no índice IGPM.
